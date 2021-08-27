@@ -201,7 +201,7 @@ namespace TestSortApp.Tests
 
             for (int i = 0; i < colorItemCount; i++)
             {
-                int randomNumber = random.Next(0, 2);
+                int randomNumber = random.Next(0, 3);
                 switch (randomNumber)
                 {
                     case 0:
